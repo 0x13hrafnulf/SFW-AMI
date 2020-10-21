@@ -1,0 +1,3 @@
+double c2 = (phi0 - dzeta0 * psi) / (dzeta0  + eta0*a1 - dzeta0* (-a1 / e));
+                double c1 = Math.Exp(-a1/e) * c2;
+                return (c1 + c2 * Math.Exp(-(a1*t) / e));

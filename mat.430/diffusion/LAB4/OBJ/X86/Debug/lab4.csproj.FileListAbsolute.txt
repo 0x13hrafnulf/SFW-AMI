@@ -1,0 +1,133 @@
+D:\Универ\Sklyar\Лабы\lab4\lab4\bin\Debug\lab4.exe
+D:\Универ\Sklyar\Лабы\lab4\lab4\bin\Debug\lab4.pdb
+D:\Универ\Sklyar\Лабы\lab4\lab4\bin\Debug\ZedGraph.dll
+D:\Универ\Sklyar\Лабы\lab4\lab4\obj\x86\Debug\lab4.Form1.resources
+D:\Универ\Sklyar\Лабы\lab4\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+D:\Универ\Sklyar\Лабы\lab4\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+D:\Универ\Sklyar\Лабы\lab4\lab4\obj\x86\Debug\lab4.exe
+D:\Универ\Sklyar\Лабы\lab4\lab4\obj\x86\Debug\lab4.pdb
+D:\Универ\Sklyar\Лабы\lab4\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+I:\lab4\lab4\obj\x86\Debug\lab4.exe
+I:\lab4\lab4\obj\x86\Debug\lab4.pdb
+I:\lab4\lab4\bin\Debug\lab4.exe
+I:\lab4\lab4\bin\Debug\lab4.pdb
+I:\lab4\lab4\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\lab4\lab4\obj\x86\Debug\lab4.Form1.resources
+I:\lab4\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+I:\lab4\lab4\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\lab4\lab4\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Смотреть\Яна Last\lab4\obj\x86\Debug\lab4.exe
+F:\Смотреть\Яна Last\lab4\obj\x86\Debug\lab4.pdb
+F:\Смотреть\Яна Last\lab4\bin\Debug\lab4.exe
+F:\Смотреть\Яна Last\lab4\bin\Debug\lab4.pdb
+F:\Смотреть\Яна Last\lab4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Смотреть\Яна Last\lab4\obj\x86\Debug\lab4.Form1.resources
+F:\Смотреть\Яна Last\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+F:\Смотреть\Яна Last\lab4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Смотреть\Яна Last\lab4\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\KRSU\4 Курс\Кузнецова Яна\Яна Last\lab4\obj\x86\Debug\lab4.exe
+H:\KRSU\4 Курс\Кузнецова Яна\Яна Last\lab4\obj\x86\Debug\lab4.pdb
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\obj\x86\Debug\lab4.exe
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\obj\x86\Debug\lab4.pdb
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\bin\Debug\lab4.exe
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\bin\Debug\lab4.pdb
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\obj\x86\Debug\lab4.Form1.resources
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+F:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Яна Last\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\obj\x86\Debug\lab4.exe
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\obj\x86\Debug\lab4.pdb
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\obj\x86\Debug\lab4.Form1.resources
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\bin\Debug\lab4.exe
+\\10.90.0.6\fs\STAFF\sklyar_sr\Desktop\Яна Last\lab4\bin\Debug\lab4.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+F:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+F:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+I:\AUCA_Fall-2017\ЧМ для УМФ_FALL-2016\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+H:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+H:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_1\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+G:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_1\Диффузия-конвекция\LAB4\obj\x86\Debug\lab4.exe
+G:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_1\Диффузия-конвекция\LAB4\obj\x86\Debug\lab4.pdb
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CopyComplete
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+C:\Users\Mark13\Downloads\Диффузия-конвекция-20190908T070914Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция-20190917T045425Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+C:\Users\umarbaev_b\Downloads\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojAssemblyReference.cache
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.cache
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CopyComplete
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+D:\Project\Class_projects\Диффузия-конвекция-20190926T145519Z-001\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CopyComplete
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+C:\Users\Admin\Desktop\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb
+D:\Hrafnulf\Диффузия-конвекция\lab4\bin\Debug\lab4.exe
+D:\Hrafnulf\Диффузия-конвекция\lab4\bin\Debug\lab4.pdb
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csprojAssemblyReference.cache
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Form1.resources
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.Properties.Resources.resources
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.GenerateResource.cache
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.csproj.CopyComplete
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.exe
+D:\Hrafnulf\Диффузия-конвекция\lab4\obj\x86\Debug\lab4.pdb

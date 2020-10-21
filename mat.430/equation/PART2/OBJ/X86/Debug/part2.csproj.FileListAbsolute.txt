@@ -1,0 +1,158 @@
+D:\диплом\part2\part2\obj\x86\Debug\part2.Form1.resources
+D:\диплом\part2\part2\obj\x86\Debug\part2.Properties.Resources.resources
+D:\диплом\part2\part2\obj\x86\Debug\part2.csproj.GenerateResource.Cache
+D:\диплом\part2\part2\bin\Debug\part2.exe
+D:\диплом\part2\part2\bin\Debug\part2.pdb
+D:\диплом\part2\part2\bin\Debug\ZedGraph.dll
+D:\диплом\part2\part2\obj\x86\Debug\part2.exe
+D:\диплом\part2\part2\obj\x86\Debug\part2.pdb
+D:\диплом\part2\part2\obj\x86\Debug\part2.csprojResolveAssemblyReference.cache
+F:\диплом\part2\part2\obj\x86\Debug\part2.exe
+F:\диплом\part2\part2\obj\x86\Debug\part2.pdb
+E:\диплом\part2\part2\obj\x86\Debug\part2.exe
+E:\диплом\part2\part2\obj\x86\Debug\part2.pdb
+H:\ДИПЛОМЫ\Дипломы-2015-16\Турдубек Мадина\Турдубек Мадина\Турдубек Мадина ч.2\part2\obj\x86\Debug\part2.exe
+H:\ДИПЛОМЫ\Дипломы-2015-16\Турдубек Мадина\Турдубек Мадина\Турдубек Мадина ч.2\part2\obj\x86\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\obj\x86\Debug\part2.exe
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\obj\x86\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\bin\Debug\part2.exe
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\bin\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\obj\x86\Debug\part2.Form1.resources
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\obj\x86\Debug\part2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Турдубек Мадина ч.2\part2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ДИПЛОМЫ\Дипломы-2015-16\Турдубек Мадина\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\part2.exe
+H:\ДИПЛОМЫ\Дипломы-2015-16\Турдубек Мадина\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\part2.exe
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\bin\Debug\part2.exe
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\bin\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\part2.Form1.resources
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\part2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (2)\part2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\part2.exe
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\part2.Form1.resources
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\part2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\bin\Debug\part2.exe
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\bin\Debug\part2.pdb
+C:\Users\Admin\Desktop\Турдубек Мадина Тестовые задачи (3)\part2\bin\Debug\ZedGraph.dll
+D:\Стол-8(28ю06ю16)\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\part2.exe
+D:\Стол-8(28ю06ю16)\Турдубек Мадина Тестовые задачи (3)\part2\obj\x86\Debug\part2.pdb
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+C:\Users\Admin\Desktop\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\AUCA_Fall-2016\MAT 407_Num Meth\Программы\Уравнение Теплопроводности\part2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojResolveAssemblyReference.cache
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.Cache
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojResolveAssemblyReference.cache
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+J:\FALL_2016\AUCA_Fall-2016\ЧМ для УМФ_FALL-2016\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.Cache
+H:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+H:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojResolveAssemblyReference.cache
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+F:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.Cache
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojResolveAssemblyReference.cache
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+I:\AUCA_Fall-2017\MAT 410_Num Meth for EMF (Fall-2017)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.Cache
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojResolveAssemblyReference.cache
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+H:\AUCA_Fall-2018\MAT 410_Num Meth for EMP (FALL-2018)\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.Cache
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojAssemblyReference.cache
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.cache
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.CoreCompileInputs.cache
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.CopyComplete
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+D:\AUCA_Fall-2019\MAT 410_Num Meth for EMP\Labs\Lab_2\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojResolveAssemblyReference.cache
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.Cache
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.CoreCompileInputs.cache
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+Y:\Courses Information Support\Natural Sciences and Information Technologies\MAT 410 Numerical Methods for EMP\STUDENTS\Umarbaev Bektur\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csprojAssemblyReference.cache
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Form1.resources
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.Properties.Resources.resources
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.GenerateResource.cache
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.CoreCompileInputs.cache
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.exe
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.pdb
+D:\Hrafnulf\Уравнение Теплопроводности\part2\bin\Debug\part2.exe
+D:\Hrafnulf\Уравнение Теплопроводности\part2\bin\Debug\part2.pdb
+D:\Hrafnulf\Уравнение Теплопроводности\part2\bin\Debug\ZedGraph.dll
+D:\Hrafnulf\Уравнение Теплопроводности\part2\obj\x86\Debug\part2.csproj.CopyComplete

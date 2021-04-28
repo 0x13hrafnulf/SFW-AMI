@@ -1,0 +1,55 @@
+`timescale 1 ns/ 10 ps
+
+module lab3part26(A, B, C, D, E, F, G, D0, D1, D2, D3);
+
+input D0, D1, D2, D3;
+wire [15:0] N;
+output A, B, C, D, E, F, G;
+
+assign N[0] =  ~D3*~D2*~D1*~D0;
+assign N[1] =  ~D3*~D2*~D1*D0;	
+assign N[2] =  ~D3*~D2*D1*~D0;
+assign N[3] =  ~D3*~D2*D1*D0;
+assign N[4] =  ~D3*D2*~D1*~D0;
+assign N[5] =  ~D3*D2*~D1*D0;	
+assign N[6] =  ~D3*D2*D1*~D0;
+assign N[7] =  ~D3*D2*D1*D0;
+assign N[8] =  D3*~D2*~D1*~D0;
+assign N[9] =  D3*~D2*~D1*D0;	
+assign N[10] = D3*~D2*D1*~D0;
+assign N[11] = D3*~D2*D1*D0;
+assign N[12] = D3*D2*~D1*~D0;
+assign N[13] = D3*D2*~D1*D0;	
+assign N[14] = D3*D2*D1*~D0;
+assign N[15] = D3*D2*D1*D0;
+
+assign A = N[0] + N[2] + N[3] + N[5] 
+         + N[6] + N[7] + N[8] + N[9] 
+         + N[10] + N[12] + N[14]+ N[15];
+
+assign B = N[0] + N[1] + N[2] + N[3] 
+         + N[4] + N[7] + N[8] + N[9] 
+         + N[10] + N[13];
+
+assign C = N[0] + N[1] + N[3] + N[4] 
+         + N[5] + N[6] + N[7] + N[8] 
+         + N[9] + N[10] + N[11]+ N[13];
+
+assign D = N[0] + N[2] + N[3] + N[5] 
+         + N[6] + N[8] + N[9] + N[11] 
+         + N[12] + N[13] + N[14];
+
+assign E = N[0] + N[2] + N[6] + N[8] 
+         + N[10] + N[11] + N[12] + N[13] 
+         + N[14] + N[15];
+
+assign F = N[0] + N[4] + N[5] + N[6] 
+         + N[8] + N[9] + N[10] + N[11] 
+         + N[12] + N[14]+ N[15];
+
+assign G = N[2] + N[3] + N[4] + N[5] 
+         + N[6] + N[8] + N[9] + N[10] 
+         + N[11] + N[13] + N[14]+ N[15];
+         
+endmodule
+

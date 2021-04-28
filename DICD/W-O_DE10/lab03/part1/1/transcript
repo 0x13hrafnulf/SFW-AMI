@@ -1,0 +1,7 @@
+vsim -gui work.lab3part11
+# vsim -gui work.lab3part11 
+# Start time: 13:27:16 on May 06,2020
+# Loading work.lab3part11
+add wave sim:/lab3part11/*
+do D:/Hrafnulf/DICD/lab03/part1/1/Stim.do
+run 3600ns

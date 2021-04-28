@@ -1,0 +1,329 @@
+# Compile of lab4part22.v was successful.
+vsim -gui work.lab4part22
+# vsim -gui work.lab4part22 
+# Start time: 17:53:10 on May 03,2020
+# Loading work.lab4part22
+add wave sim:/lab4part22/*
+do D:/Hrafnulf/DICD/lab04/part2/2/Stim.do
+run 3200ns
+# Compile of lab4part22.v was successful.
+# Compile of lab4part22.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part22
+do D:/Hrafnulf/DICD/lab04/part2/2/Stim.do
+run 3200ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part22.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part22
+do D:/Hrafnulf/DICD/lab04/part2/2/Stim.do
+run 3200ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part2/2/Stim.do
+run 3200ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part22.v was successful.
+quit -sim
+# End time: 18:16:48 on May 03,2020, Elapsed time: 0:23:38
+# Errors: 0, Warnings: 2
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part23
+# Load canceled
+# Compile of lab4part23.v failed with 1 errors.
+# Compile of lab4part23.v was successful.
+vsim -gui work.lab4part23
+# vsim -gui work.lab4part23 
+# Start time: 18:18:14 on May 03,2020
+# Loading work.lab4part23
+quit -sim
+# End time: 18:19:30 on May 03,2020, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 6
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part23
+# Compile of lab4part23.v was successful.
+vsim -gui work.lab4part23
+# vsim -gui work.lab4part23 
+# Start time: 18:20:35 on May 03,2020
+# Loading work.lab4part23
+add wave sim:/lab4part23/*
+do D:/Hrafnulf/DICD/lab04/part2/3/Stim.do
+run 3600ns
+quit -sim
+# End time: 18:22:07 on May 03,2020, Elapsed time: 0:01:32
+# Errors: 0, Warnings: 5
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part24
+# Compile of lab4part24.v was successful.
+# Compile of lab4part24.v was successful.
+vsim -gui work.lab4part24
+# vsim -gui work.lab4part24 
+# Start time: 22:00:39 on May 03,2020
+# Loading work.lab4part24
+add wave sim:/lab4part24/*
+do D:/Hrafnulf/DICD/lab04/part2/4/Stim.do
+run 1600ns
+# Compile of lab4part24.v failed with 1 errors.
+# Compile of lab4part24.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part24
+do D:/Hrafnulf/DICD/lab04/part2/4/Stim.do
+run 1600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part24.v was successful.
+# Compile of lab4part24.v was successful.
+add wave sim:/lab4part24/*
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part24
+do D:/Hrafnulf/DICD/lab04/part2/4/Stim.do
+run 1600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+add wave sim:/lab4part24/*
+# Compile of lab4part24.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part24
+do D:/Hrafnulf/DICD/lab04/part2/4/Stim.do
+run 1600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 22:10:17 on May 03,2020, Elapsed time: 0:09:38
+# Errors: 0, Warnings: 1
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part25
+# Compile of lab4part25.v failed with 3 errors.
+# Compile of lab4part25.v was successful.
+vsim -gui work.lab4part25
+# vsim -gui work.lab4part25 
+# Start time: 00:48:47 on May 04,2020
+# Loading work.lab4part25
+add wave sim:/lab4part25/*
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+# ** Error: invalid command name "forse"
+# Error in macro D:\Hrafnulf\DICD\lab04\part2\5\Stim.do line 2
+# invalid command name "forse"
+#     while executing
+# "forse SET 1 200ns, 250ns"
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+# ** Error: invalid command name "forse"
+# Error in macro D:\Hrafnulf\DICD\lab04\part2\5\Stim.do line 2
+# invalid command name "forse"
+#     while executing
+# "forse SET 1 200ns, 0 250ns"
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+# Invalid binary digit: 3.
+# ** UI-Msg: (vsim-4011) Invalid force value: 3 200ns.
+# Error in macro D:\Hrafnulf\DICD\lab04\part2\5\Stim.do line 10
+# Invalid binary digit: 3.
+# ** UI-Msg: (vsim-4011) Invalid force value: 3 200ns.
+# 
+#     while executing
+# "force Phase1 3 200ns"
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part25
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 02:15:09 on May 04,2020, Elapsed time: 1:26:22
+# Errors: 0, Warnings: 1
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part26
+# Compile of lab4part26.v was successful.
+vsim -gui work.lab4part26
+# vsim -gui work.lab4part26 
+# Start time: 02:15:46 on May 04,2020
+# Loading work.lab4part26
+add wave sim:/lab4part26/*
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# Compile of lab4part26.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part26
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part26.v was successful.
+# Compile of lab4part26.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part26
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part26.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part26
+# Warning in wave window restart: (vish-4014) No objects found matching '/lab4part26/duty_cycle'. 
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+add wave -position insertpoint  \
+sim:/lab4part26/duty
+# Compile of lab4part26.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part26
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part26.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part26
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part2/6/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# Break key hit
+# Closing project D:/Hrafnulf/DICD/lab04/part2/6/part26.mpf
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part25
+# End time: 02:39:59 on May 04,2020, Elapsed time: 0:24:13
+# Errors: 0, Warnings: 2
+vsim -gui work.lab4part25
+# vsim -gui work.lab4part25 
+# Start time: 02:40:11 on May 04,2020
+# Loading work.lab4part25
+add wave sim:/lab4part25/*
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+# End time: 02:40:29 on May 04,2020, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 1
+# WLF meta update error: 
+# Error while executing: run
+# Usage: run {[<timesteps>[<time_units>]] | -all | -continue| -init | -next | -over [<n>]} | {-step [<n>] [-current] [-out] [-over [<n>]] [-this "this ==<class_handle>]}
+vsim -gui work.lab4part25
+# vsim -gui work.lab4part25 
+# Start time: 02:41:02 on May 04,2020
+# Loading work.lab4part25
+add wave sim:/lab4part25/*
+do D:/Hrafnulf/DICD/lab04/part2/5/Stim.do
+run 3600ns
+quit -sim
+# End time: 02:43:37 on May 04,2020, Elapsed time: 0:02:35
+# Errors: 0, Warnings: 2

@@ -1,0 +1,86 @@
+# Compile of lab4part14.v failed with 2 errors.
+# Compile of lab4part14.v failed with 3 errors.
+# Compile of lab4part14.v failed with 1 errors.
+# Compile of lab4part14.v failed with 1 errors.
+# Compile of lab4part14.v failed with 1 errors.
+# Compile of lab4part14.v failed with 1 errors.
+# Compile of lab4part14.v was successful.
+# Compile of lab4part14.v was successful.
+vsim -gui work.lab4part14
+# vsim -gui work.lab4part14 
+# Start time: 15:50:30 on May 02,2020
+# Loading work.lab4part14
+add wave sim:/lab4part14/*
+# Compile of lab4part14.v was successful.
+# Compile of lab4part14.v was successful.
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part14
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 16:11:25 on May 02,2020, Elapsed time: 0:20:55
+# Errors: 0, Warnings: 1
+vsim -gui work.lab4part14
+# vsim -gui work.lab4part14 
+# Start time: 16:11:32 on May 02,2020
+# Loading work.lab4part14
+# Compile of lab4part14.v was successful.
+# Compile of lab4part14.v was successful.
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+add wave sim:/lab4part14/*
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part14
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part14.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part14
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part14.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part14
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part14.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part14
+do D:/Hrafnulf/DICD/lab04/part1/4/Stim.do
+run 2400ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 16:37:49 on May 02,2020, Elapsed time: 0:26:17
+# Errors: 0, Warnings: 1

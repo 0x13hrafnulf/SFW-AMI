@@ -1,0 +1,16 @@
+vsim -gui work.mult_acc
+# vsim -gui work.mult_acc 
+# Start time: 13:00:41 on May 06,2020
+# Loading work.mult_acc
+add wave sim:/mult_acc/*
+do D:/Hrafnulf/DICD/lab01/Stim.do
+run -all
+restart -f
+do D:/Hrafnulf/DICD/lab01/Stim.do
+run 3600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 13:05:22 on May 06,2020, Elapsed time: 0:04:41
+# Errors: 0, Warnings: 1

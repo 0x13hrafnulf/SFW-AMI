@@ -1,0 +1,8 @@
+D:/Hrafnulf/DICD/lab04/part2/6/lab4part26.v {1 {vlog -work work -stats=none D:/Hrafnulf/DICD/lab04/part2/6/lab4part26.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab4part26
+
+Top level modules:
+	lab4part26
+
+} {} {}}

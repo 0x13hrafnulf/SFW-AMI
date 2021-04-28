@@ -1,0 +1,12 @@
+# Compile of lab1part2.v was successful.
+# Load canceled
+# Compile of lab1part2.v was successful.
+vsim -gui -t ps work.lab1part2
+# vsim -gui -t ps work.lab1part2 
+# Start time: 00:25:41 on May 01,2020
+# Loading work.lab1part2
+add wave sim:/lab1part2/*
+do D:/Hrafnulf/DICD/lab02/part2/Stim.do
+run -all
+# End time: 00:44:11 on May 01,2020, Elapsed time: 0:18:30
+# Errors: 0, Warnings: 6

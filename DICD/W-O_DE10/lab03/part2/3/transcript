@@ -1,0 +1,204 @@
+# Compile of lab3part24.v failed with 24 errors.
+# Compile of lab3part24.v was successful.
+vsim -gui work.lab3part24
+# vsim -gui work.lab3part24 
+# Start time: 17:22:14 on May 01,2020
+# Loading work.lab3part24
+add wave sim:/lab3part24/*
+do D:/Hrafnulf/DICD/lab03/part2/4/Stim.do
+run 3200ns
+# Compile of lab3part24.v was successful.
+do D:/Hrafnulf/DICD/lab03/part2/4/Stim.do
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab3part24
+do D:/Hrafnulf/DICD/lab03/part2/4/Stim.do
+run 3200ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 17:31:45 on May 01,2020, Elapsed time: 0:09:31
+# Errors: 0, Warnings: 1
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part25
+# Compile of lab3part25.v was successful.
+vsim -gui work.lab3part25
+# vsim -gui work.lab3part25 
+# Start time: 17:39:33 on May 01,2020
+# Loading work.lab3part25
+add wave sim:/lab3part25/*
+run 1600ns
+# Compile of lab3part25.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab3part25
+# Compile of lab3part25.v was successful.
+do D:/Hrafnulf/DICD/lab03/part2/5/Stim.do
+do D:/Hrafnulf/DICD/lab03/part2/5/Stim.do
+run 1600ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run 1000ns
+quit -sim
+# End time: 17:42:30 on May 01,2020, Elapsed time: 0:02:57
+# Errors: 0, Warnings: 2
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part26
+# Compile of lab3part26.v failed with 6 errors.
+# Compile of lab3part26.v failed with 7 errors.
+# Compile of lab3part26.v failed with 1 errors.
+# Compile of lab3part26.v failed with 1 errors.
+# Compile of lab3part26.v was successful.
+vsim -gui work.lab3part26
+# vsim -gui work.lab3part26 
+# Start time: 18:23:11 on May 01,2020
+# Loading work.lab3part26
+add wave sim:/lab3part26/*
+do D:/Hrafnulf/DICD/lab03/part2/6/Stim.do
+run 3600
+run 3600ns
+quit -sim
+# End time: 18:30:05 on May 01,2020, Elapsed time: 0:06:54
+# Errors: 0, Warnings: 9
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part11
+# Compile of lab4part11.v failed with 3 errors.
+# Compile of lab4part11.v failed with 3 errors.
+# Compile of lab4part11.v failed with 3 errors.
+# Compile of lab4part11.v failed with 3 errors.
+# Compile of lab4part11.v failed with 3 errors.
+# Compile of lab4part11.v failed with 3 errors.
+# Compile of lab4part11.v failed with 3 errors.
+# Compile of lab4part11.v was successful.
+vsim -gui work.lab4part11
+# vsim -gui work.lab4part11 
+# Start time: 00:48:23 on May 02,2020
+# Loading work.lab4part11
+add wave sim:/lab4part11/*
+do D:/Hrafnulf/DICD/lab04/part1/1/Stim.do
+do D:/Hrafnulf/DICD/lab04/part1/1/Stim.do
+run 1000ns
+# Compile of lab4part11.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part11
+# Warning in wave window restart: (vish-4014) No objects found matching '/lab4part11/O'. 
+do D:/Hrafnulf/DICD/lab04/part1/1/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+# Compile of lab4part11.v failed with 1 errors.
+do D:/Hrafnulf/DICD/lab04/part1/1/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 00:59:12 on May 02,2020, Elapsed time: 0:10:49
+# Errors: 0, Warnings: 2
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part12
+# Compile of lab4part12.v failed with 4 errors.
+# Compile of lab4part12.v failed with 1 errors.
+# Compile of lab4part12.v failed with 1 errors.
+# Compile of lab4part12.v failed with 1 errors.
+# Compile of lab4part12.v was successful.
+vsim -gui work.lab4part12
+# vsim -gui work.lab4part12 
+# Start time: 02:25:51 on May 02,2020
+# Loading work.lab4part12
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+add wave sim:/lab4part12/*
+run 1000ns
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part12.v failed with 1 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Compile of lab4part12.v failed with 1 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Compile of lab4part12.v failed with 1 errors.
+# Compile of lab4part12.v failed with 1 errors.
+# Compile of lab4part12.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part12
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+# ** UI-Msg: (vsim-3464) Period of -repeat must not be less than the waveform length.
+# Error in macro D:\Hrafnulf\DICD\lab04\part1\2\Stim.do line 2
+# ** UI-Msg: (vsim-3464) Period of -repeat must not be less than the waveform length.
+# 
+#     while executing
+# "force S 0 0ns, 0 {150ns} -repeat 50ns"
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part12.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part12
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+# ** UI-Msg: (vsim-3464) Period of -repeat must not be less than the waveform length.
+# Error in macro D:\Hrafnulf\DICD\lab04\part1\2\Stim.do line 2
+# ** UI-Msg: (vsim-3464) Period of -repeat must not be less than the waveform length.
+# 
+#     while executing
+# "force S 0 0ns, 1 {150ns} -repeat 50ns"
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+# ** UI-Msg: (vsim-3464) Period of -repeat must not be less than the waveform length.
+# Error in macro D:\Hrafnulf\DICD\lab04\part1\2\Stim.do line 2
+# ** UI-Msg: (vsim-3464) Period of -repeat must not be less than the waveform length.
+# 
+#     while executing
+# "force S 0 0ns, 1 {150ns} -repeat 50ns"
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+restart -f
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+do D:/Hrafnulf/DICD/lab04/part1/2/Stim.do
+run 1000ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 02:47:49 on May 02,2020, Elapsed time: 0:21:58
+# Errors: 0, Warnings: 1
+# reading D:/intelFPGA_pro/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project part14

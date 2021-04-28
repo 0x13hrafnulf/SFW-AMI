@@ -1,0 +1,12 @@
+force RST 1 0ns, 0 100ns;
+force SET 1 200ns, 0 250ns;
+force clk 1 0ns, 0 {50ns} -repeat 100ns;
+force PulseW1 10#3 200ns; 
+force PulseW2 10#1 200ns; 
+force PulseW3 10#2 200ns;
+force Period1 10#8 200ns; 
+force Period2 10#10 200ns; 
+force Period3 10#4 200ns;
+force Phase1 10#3 200ns; 
+force Phase2 10#6 200ns; 
+force Phase3 10#1 200ns;

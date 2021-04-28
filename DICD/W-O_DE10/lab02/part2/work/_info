@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Hrafnulf/DICD/lab02/part1
+vlab1part1
+!s110 1588271051
+!i10b 1
+!s100 `l<GBzM@jlE[P^OUbYN^40
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IG7MbACT_PMz2>THNofh:S3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Hrafnulf/DICD/lab02/part2
+w1588270975
+Z3 8D:/Hrafnulf/DICD/lab02/part2/lab1part2.v
+Z4 FD:/Hrafnulf/DICD/lab02/part2/lab1part2.v
+!i122 0
+Z5 L0 3 14
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1588271051.000000
+!s107 D:/Hrafnulf/DICD/lab02/part2/lab1part2.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|D:/Hrafnulf/DICD/lab02/part2/lab1part2.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vlab1part2
+!s110 1588271129
+!i10b 1
+!s100 7G6Oz83a5oY>`Bd;]=KPm0
+R0
+Ic2BL?fz^Jm<OiOhL[>GI23
+R1
+R2
+w1588271124
+R3
+R4
+!i122 1
+R5
+R6
+r1
+!s85 0
+31
+!s108 1588271129.000000
+Z10 !s107 D:/Hrafnulf/DICD/lab02/part2/lab1part2.v|
+R7
+!i113 1
+R8
+R9

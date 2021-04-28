@@ -1,0 +1,61 @@
+# Compile of lab4part13.v failed with 1 errors.
+# Compile of lab4part13.v was successful.
+vsim -gui work.lab4part13
+# vsim -gui work.lab4part13 
+# Start time: 18:34:26 on May 02,2020
+# Loading work.lab4part13
+add wave sim:/lab4part13/*
+do D:/Hrafnulf/DICD/lab04/part1/3/Stim.do
+# ** UI-Msg: (vsim-4007) A value argument is required.
+# Usage: force [-deposit | -drive | -freeze] [-cancel <period>] [-repeat <period>] <item_name> <value> [<time>] [, <value> <time> ...]
+# Error in macro D:\Hrafnulf\DICD\lab04\part1\3\Stim.do line 4
+# ** UI-Msg: (vsim-4007) A value argument is required.
+# Usage: force [-deposit | -drive | -freeze] [-cancel <period>] [-repeat <period>] <item_name> <value> [<time>] [, <value> <time> ...]
+#     while executing
+# "force ser_input 1 50ns, 0 130ns, 1 230ns, 0 330ns, 1 430ns, 1 530ns, 0 630ns, 1 730ns,"
+do D:/Hrafnulf/DICD/lab04/part1/3/Stim.do
+run 1000ns
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Compile of lab4part13.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part13
+do D:/Hrafnulf/DICD/lab04/part1/3/Stim.do
+run 1800ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part13.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part13
+do D:/Hrafnulf/DICD/lab04/part1/3/Stim.do
+run 1800ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part13.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part13
+do D:/Hrafnulf/DICD/lab04/part1/3/Stim.do
+run 1800ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part13.v failed with 1 errors.
+# Compile of lab4part13.v was successful.
+# Compile of lab4part13.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.lab4part13
+do D:/Hrafnulf/DICD/lab04/part1/3/Stim.do
+run 1800ns
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of lab4part13.v was successful.
+quit -sim
+# End time: 18:47:51 on May 02,2020, Elapsed time: 0:13:25
+# Errors: 0, Warnings: 2

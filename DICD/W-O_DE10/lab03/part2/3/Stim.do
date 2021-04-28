@@ -1,0 +1,10 @@
+force D4 1  0ns, 0  100ns;
+force D3 0  0ns, 1  100ns, 0  200ns;
+force D2 0  0ns, 1  200ns, 0  300ns;
+force D1 0  0ns, 1  300ns, 0  400ns;
+force D0 0  0ns, 1  400ns, 0  500ns;
+force DN1 0  0ns, 1  500ns, 0  600ns;
+force DN2 0  0ns, 1  600ns, 0  700ns;
+force DN3 0  0ns, 1  700ns, 0  800ns;
+force DN4 0  0ns, 1  800ns, 0  900ns;
+force DN5 0  0ns, 1  900ns, 0  1000ns;

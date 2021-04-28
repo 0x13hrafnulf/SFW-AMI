@@ -1,0 +1,18 @@
+module part2 (SW, LEDR);
+	input [9:0] SW;
+	output [9:0] LEDR;
+
+	assign LEDR9 = SW9;
+	
+	assign LEDR4 = 0;
+	assign LEDR5 = 0;
+	assign LEDR6 = 0;
+	assign LEDR7 = 0;
+	assign LEDR8 = 0;	
+
+	assign LEDR0 = (~SW9 & SW0) | (SW9 & SW4);
+	assign LEDR1 = (~SW9 & SW1) | (SW9 & SW5);
+	assign LEDR2 = (~SW9 & SW2) | (SW9 & SW6);
+	assign LEDR3 = (~SW9 & SW3) | (SW9 & SW7);
+	
+endmodule

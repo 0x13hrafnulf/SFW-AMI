@@ -1,0 +1,4 @@
+force R 1 0ns, 0 50ns;
+force S 0 0ns, 1 {100ns} -repeat 200ns;
+force clk 1 0ns, 0 {50ns} -repeat 100ns;
+force ser_input 1 100ns, 0 200ns, 1 230ns, 0 330ns, 1 430ns, 1 530ns, 0 630ns, 1 730ns;

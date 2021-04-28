@@ -1,0 +1,11 @@
+# Compile of lab4part16.v failed with 2 errors.
+# Compile of lab4part16.v was successful.
+vsim -gui work.lab4part16
+# vsim -gui work.lab4part16 
+# Start time: 22:30:47 on May 02,2020
+# Loading work.lab4part16
+add wave sim:/lab4part16/*
+add wave -position insertpoint end
+# ** UI-Msg: (vish-4014) No objects found matching 'end'.
+# End time: 23:04:15 on May 02,2020, Elapsed time: 0:33:28
+# Errors: 0, Warnings: 6

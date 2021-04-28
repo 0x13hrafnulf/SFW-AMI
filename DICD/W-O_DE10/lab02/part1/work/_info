@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA_pro/20.1/modelsim_ase/win32aloem
+vlab1part1
+!s110 1588270832
+!i10b 1
+!s100 61Jg7hI>6]RbO9JjTji:`2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+II[Lf=I97D@NN[4nE>mWXR0
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Hrafnulf/DICD/lab02/part1
+w1588270828
+8D:/Hrafnulf/DICD/lab02/part1/lab1part1.v
+FD:/Hrafnulf/DICD/lab02/part1/lab1part1.v
+!i122 2
+L0 2 14
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1588270832.000000
+!s107 D:/Hrafnulf/DICD/lab02/part1/lab1part1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Hrafnulf/DICD/lab02/part1/lab1part1.v|
+!i113 1
+o-work work
+tCvgOpt 0

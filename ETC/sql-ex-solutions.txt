@@ -1010,6 +1010,9 @@ Select name, c from Passenger p join (Select distinct p.id_psg,
 case 
 when qty < 0 then 0 else qty end c
 FROM pass_in_trip p left join b on b.id_psg = p.id_psg) x on x.id_psg = p.id_psg
+------158
+with x as (select date, sum(out) as out from outcome group by date)
+select date, out - avg(out) over(order by date rows between 2 preceding and 1 preceding) from x
 ------160
 with y as (select id_psg, count(cities) as numcities from (select id_psg, town_to as cities from trip join pass_in_trip on pass_in_trip.trip_no = trip.trip_no
 union 

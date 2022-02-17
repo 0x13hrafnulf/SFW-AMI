@@ -201,3 +201,12 @@ when (s1.qty = s2.qty and s1.val < s2.val) then 'once a day'
 when (s1.qty = s2.qty and s1.val > s2.val) then 'once a day'
 end
 from s1, s2 where s1.point = s2.point and s1.date = s2.date
+
+---157
+
+with x as 
+(select case when name is null then ship else name end as shipname, 
+ case when result is null then 'ok' else result end as rslt, 
+ case when battle is null then 0 else 1 end as btl 
+ from outcomes full join ships on ships.name = outcomes.ship)
+select shipname, sum(btl) from x where rslt != 'sunk' group by shipname

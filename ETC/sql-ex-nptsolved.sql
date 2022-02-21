@@ -210,3 +210,13 @@ with x as
  case when battle is null then 0 else 1 end as btl 
  from outcomes full join ships on ships.name = outcomes.ship)
 select shipname, sum(btl) from x where rslt != 'sunk' group by shipname
+
+---41
+
+with x as(select maker, price from product join pc on pc.model = product.model
+union
+select maker, price from product join printer on printer.model = product.model
+union
+select maker, price from product join laptop on laptop.model = product.model)
+select maker, max(price) from x group by maker
+
